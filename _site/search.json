@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Vibha Dara. I got to Neuqua Valley High School which is in the Chicago land area in Illinois. Some of my interests include playing badminton, playing pickleball, hanging out with friends, and drawing."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nSalary In Each Country\nMy project shows how different factors around the world can impact different state’s salaries.\n\nGoals\n\nwebsite to look appealing\n\nI need to explore the different themes and different methods with ggplot2 to make the website and content look as best as possible. Right now, I only know a few.\n\nwebsite to be engaging\n\nThis is data science\n~Preceptor Kane’s Free Data Science Bootcamp"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "first-website",
     "section": "",
     "text": "mtcars|>\n  select(mpg, wt) |>\n    ggplot(aes(x = wt, y = mpg)) +\n    geom_point() +\n    geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +\n    theme_clean() +\n    labs(title = \"Fuel Efficiency and Weight\", \n         subtitle = \"Heavier cars are less fuel efficient\",\n         x = \"Weight (1000s of lbs)\", \n         y = \"MPG\",\n         caption = \"Henderson and Vellerman (1981)\")"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

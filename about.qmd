@@ -2,8 +2,21 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+My name is **Vibha Dara**. I got to Neuqua Valley High School which is in the Chicago land area in Illinois. Some of my interests include playing badminton, playing pickleball, hanging out with friends, and drawing. 
+
+## About the Project
+Salary In Each Country
+
+My project shows how different factors around the world can impact different state's salaries. 
+
+### Goals
+- website to look appealing
+  + I need to explore the different themes and  different methods with ggplot2 to make the website and content look as best as possible. Right now, I only know a few. 
+- website to be engaging
+
+This is data science
+\
+~Preceptor
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
