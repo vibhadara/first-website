@@ -7,6 +7,13 @@
     "text": "My name is Vibha Dara. I got to Neuqua Valley High School which is in the Chicago land area in Illinois. Some of my interests include playing badminton, playing pickleball, hanging out with friends, and drawing."
   },
   {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "My name is Vibha Dara. I got to Neuqua Valley High School which is in the Chicago land area in Illinois. Some of my interests include playing badminton, playing pickleball, hanging out with friends, and drawing."
+  },
+  {
     "objectID": "about.html#about-the-project",
     "href": "about.html#about-the-project",
     "title": "About",
@@ -18,6 +25,13 @@
     "href": "index.html",
     "title": "first-website",
     "section": "",
-    "text": "mtcars|>\n  select(mpg, wt) |>\n    ggplot(aes(x = wt, y = mpg)) +\n    geom_point() +\n    geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +\n    theme_clean() +\n    labs(title = \"Fuel Efficiency and Weight\", \n         subtitle = \"Heavier cars are less fuel efficient\",\n         x = \"Weight (1000s of lbs)\", \n         y = \"MPG\",\n         caption = \"Henderson and Vellerman (1981)\")"
+    "text": "mtcars|&gt;\n  select(mpg, wt) |&gt;\n    ggplot(aes(x = wt, y = mpg)) +\n    geom_point() +\n    geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +\n    theme_clean() +\n    labs(title = \"Fuel Efficiency and Weight\", \n         subtitle = \"Heavier cars are less fuel efficient\",\n         x = \"Weight (1000s of lbs)\", \n         y = \"MPG\",\n         caption = \"Henderson and Vellerman (1981)\")"
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project.\nThese are my sources. Here are some challenges. Quarto websites are awesome."
   }
 ]
