@@ -25,13 +25,20 @@
     "href": "index.html",
     "title": "first-website",
     "section": "",
-    "text": "mtcars|&gt;\n  select(mpg, wt) |&gt;\n    ggplot(aes(x = wt, y = mpg)) +\n    geom_point() +\n    geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +\n    theme_clean() +\n    labs(title = \"Fuel Efficiency and Weight\", \n         subtitle = \"Heavier cars are less fuel efficient\",\n         x = \"Weight (1000s of lbs)\", \n         y = \"MPG\",\n         caption = \"Henderson and Vellerman (1981)\")"
+    "text": "car_plot &lt;- read_rds(file = \"car_plot.rds\")\ncar_plot"
   },
   {
-    "objectID": "sources.html",
-    "href": "sources.html",
-    "title": "Sources",
+    "objectID": "plane-passengers.html",
+    "href": "plane-passengers.html",
+    "title": "Plane Passengers",
     "section": "",
-    "text": "An overview of sources used in my project.\nThese are my sources. Here are some challenges. Quarto websites are awesome."
+    "text": "##plane"
+  },
+  {
+    "objectID": "map-london.html",
+    "href": "map-london.html",
+    "title": "Map of London",
+    "section": "",
+    "text": "##map"
   }
 ]
